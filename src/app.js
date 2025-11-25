@@ -1,10 +1,10 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap";
 
 //--------------------------------------------------------------
 // If you have custom global styles, import them as well:
 //--------------------------------------------------------------
-import '/src/styles/style.css';
+import "/src/styles/style.css";
 
 //--------------------------------------------------------------
 // Custom global JS code (shared with all pages)can go here.
@@ -14,4 +14,6 @@ import '/src/styles/style.css';
 function sayHello() {
   // TODO: implement your logic here
 }
-document.addEventListener('DOMContentLoaded', sayHello);
+document.addEventListener("DOMContentLoaded", sayHello);
+
+
